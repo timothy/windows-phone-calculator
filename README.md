@@ -1,8 +1,8 @@
-# windows-phone-calculator
+# Windows Phone Calculator
 
 ## Synopsis
 
-This is a windows phone calculator. I originally wrote this to be a simple calculator thinking I would have time to go back and add more functionality. As of now I have I only finished the basic functionality and as of now this does not support order of operations. It is a pretty cool app though and I did have fun making it!
+This is a Windows Phone calculator. I originally wrote this to be a simple calculator thinking I would have time to go back and add more functionality. As of now I have I only finished the basic functionality and as of now this does not support order of operations. It is a pretty cool app though and I did have fun making it!
 
 ## Motivation
 
